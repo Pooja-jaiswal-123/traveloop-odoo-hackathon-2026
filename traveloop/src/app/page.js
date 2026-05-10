@@ -37,7 +37,7 @@ export default function LandingPage() {
           
           {/* Background Banner Image */}
           <Image 
-            src="/image.png" 
+            src="/image.jpg" 
             alt="Traveloop Destination" 
             fill
             className="object-cover object-center"
